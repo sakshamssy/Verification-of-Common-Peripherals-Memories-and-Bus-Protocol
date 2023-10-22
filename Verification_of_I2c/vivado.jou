@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Oct 22 11:37:58 2023
+# Process ID: 13444
+# Current directory: D:/Study/Placements/Verification-of-Common-Peripherals-Memories-and-Bus-Protocol/Verification_of_I2c
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16736 D:\Study\Placements\Verification-of-Common-Peripherals-Memories-and-Bus-Protocol\Verification_of_I2c\Verification_of_I2C.xpr
+# Log file: D:/Study/Placements/Verification-of-Common-Peripherals-Memories-and-Bus-Protocol/Verification_of_I2c/vivado.log
+# Journal file: D:/Study/Placements/Verification-of-Common-Peripherals-Memories-and-Bus-Protocol/Verification_of_I2c\vivado.jou
+# Running On: DESKTOP-7JSLJ96, OS: Windows, CPU Frequency: 1996 MHz, CPU Physical cores: 8, Host memory: 7968 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/Study/Placements/Verification-of-Common-Peripherals-Memories-and-Bus-Protocol/Verification_of_I2c/Verification_of_I2C.xpr
